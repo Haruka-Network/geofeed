@@ -1,0 +1,25 @@
+# prefix,country_code,region_code,city,postal
+
+# IPv4 Main
+89.213.166.0/24,GB,GB-LND,London,WC2A 2JR
+
+# IPv6 Main
+2a12:bec0:390::/48,GB,GB-LND,London,WC2A 2JR
+2a12:bec0:391::/48,HK,,Hong Kong,
+2a12:bec0:392::/48,TW,TW-TPE,Taipei,
+2a12:bec0:393::/48,SG,SG-01,Singapore,
+2a12:bec0:394::/48,JP,JP-13,Tokyo,
+2a12:bec0:395::/48,US,US-CA,San Jose,
+2a12:bec0:396::/48,AR,AR-B,Buenos Aires,
+2a12:bec0:397::/48,PK,PK-IS,Islamabad,
+2a12:bec0:398::/48,TR,TR-06,Ankara,
+2a12:bec0:399::/48,EG,EG-C,Cairo,
+2a12:bec0:39a::/48,AQ,,Antarctica,
+2a12:bec0:39b::/48,AU,AU-ACT,Canberra,
+2a12:bec0:39c::/48,CA,CA-ON,Ottawa,
+2a12:bec0:39d::/48,FR,FR-IDF,Paris,
+2a12:bec0:39e::/48,AX,,Mariehamn,
+2a12:bec0:39f::/48,GB,GB-LND,London,WC2A 2JR
+
+# Ipv6 Unused 
+# 2a0c:9a40:95d0::/44
