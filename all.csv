@@ -22,7 +22,7 @@
 2a12:bec0:39f::/48,GB,GB-LND,London,WC2A 2JR
 
 # IPv6 BGP
-2a0f:7803:fed0::/48,GB,GB-LND,London
+2a0f:7803:fed0::/48,GB,GB-LND,London,
 2a0f:7803:fed1::/48,HK,,Hong Kong,
 2a0f:7803:fed2::/48,TW,TW-TPE,Taipei,
 2a0f:7803:fed3::/48,SG,SG-01,Singapore,
@@ -37,7 +37,7 @@
 2a0f:7803:fedc::/48,CA,CA-ON,Ottawa,
 2a0f:7803:fedd::/48,FR,FR-IDF,Paris,
 2a0f:7803:fede::/48,AX,,Mariehamn,
-2a0f:7803:fedf::/48,GB,GB-LND,London
+2a0f:7803:fedf::/48,GB,GB-LND,London,
 
 # Ipv6 Unused 
 # 2602:2a3:10::/44 
