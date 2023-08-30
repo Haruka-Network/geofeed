@@ -21,5 +21,23 @@
 2a12:bec0:39e::/48,AX,,Mariehamn,
 2a12:bec0:39f::/48,GB,GB-LND,London,WC2A 2JR
 
+# IPv6 BGP
+2a0f:7803:fed0::/48,GB,GB-LND,London
+2a0f:7803:fed1::/48,HK,,Hong Kong,
+2a0f:7803:fed2::/48,TW,TW-TPE,Taipei,
+2a0f:7803:fed3::/48,SG,SG-01,Singapore,
+2a0f:7803:fed4::/48,JP,JP-13,Tokyo,
+2a0f:7803:fed5::/48,US,US-CA,San Jose,
+2a0f:7803:fed6::/48,AR,AR-B,Buenos Aires,
+2a0f:7803:fed7::/48,PK,PK-IS,Islamabad,
+2a0f:7803:fed8::/48,TR,TR-06,Ankara,
+2a0f:7803:fed9::/48,EG,EG-C,Cairo,
+2a0f:7803:feda::/48,AQ,,Antarctica,
+2a0f:7803:fedb::/48,AU,AU-ACT,Canberra,
+2a0f:7803:fedc::/48,CA,CA-ON,Ottawa,
+2a0f:7803:fedd::/48,FR,FR-IDF,Paris,
+2a0f:7803:fede::/48,AX,,Mariehamn,
+2a0f:7803:fedf::/48,GB,GB-LND,London
+
 # Ipv6 Unused 
-# 2a0c:9a40:95d0::/44
+# 2602:2a3:10::/44 
