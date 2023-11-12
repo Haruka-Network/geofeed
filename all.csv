@@ -3,6 +3,8 @@
 # IPv4 Main
 89.213.166.0/24,GB,GB-LND,London,WC2A 2JR
 109.105.193.0/24,HK,,Hong Kong,
+109.105.193.160/27,TW,TW-TPE,Taipei,
+109.105.193.192/27,SG,SG-01,Singapore,
 
 # IPv6 Main
 2a12:bec0:390::/48,GB,GB-LND,London,WC2A 2JR
