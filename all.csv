@@ -6,41 +6,41 @@
 109.105.193.160/27,TW,TW-TPE,Taipei,
 109.105.193.192/27,SG,SG-01,Singapore,
 
-# IPv6 Main
+# IPv6 Europe, MENA and Antarctica
 2a12:bec0:390::/48,GB,GB-LND,London,WC2A 2JR
-2a12:bec0:391::/48,HK,,Hong Kong,
-2a12:bec0:392::/48,TW,TW-TPE,Taipei,
-2a12:bec0:393::/48,SG,SG-01,Singapore,
-2a12:bec0:394::/48,JP,JP-13,Tokyo,
-2a12:bec0:395::/48,US,US-CA,San Jose,
+2a12:bec0:391::/48,JE,,Saint Helier,
+2a12:bec0:392::/48,IM,,Douglas,
+2a12:bec0:393::/48,GG,,Saint Peter Port,
+2a12:bec0:394::/48,LI,LI-11,Vaduz,
+2a12:bec0:395::/48,VA,,Vatican City,
 2a12:bec0:396::/48,NG,NG-FC,Abuja,
 2a12:bec0:397::/48,PK,PK-IS,Islamabad,
 2a12:bec0:398::/48,TR,TR-06,Ankara,
 2a12:bec0:399::/48,EG,EG-C,Cairo,
 2a12:bec0:39a::/48,AQ,,Antarctica,
-2a12:bec0:39b::/48,AU,AU-ACT,Canberra,
-2a12:bec0:39c::/48,CA,CA-ON,Ottawa,
-2a12:bec0:39d::/48,FR,FR-IDF,Paris,
+2a12:bec0:39b::/48,CY,CY-01,Nicosia,
+2a12:bec0:39c::/48,IS,IS-0,Reykjavík,
+2a12:bec0:39d::/48,SM,SM-07,City of San Marino,
 2a12:bec0:39e::/48,AX,,Mariehamn,
 2a12:bec0:39f::/48,GB,GB-LND,London,WC2A 2JR
 
-# IPv6 BGP
+# IPv6 Asia
 2a0f:7803:fed0::/48,GB,GB-LND,London,
 2a0f:7803:fed1::/48,HK,,Hong Kong,
 2a0f:7803:fed2::/48,TW,TW-TPE,Taipei,
 2a0f:7803:fed3::/48,SG,SG-01,Singapore,
 2a0f:7803:fed4::/48,JP,JP-13,Tokyo,
-2a0f:7803:fed5::/48,US,US-CA,San Jose,
-2a0f:7803:fed6::/48,NG,NG-FC,Abuja,
-2a0f:7803:fed7::/48,PK,PK-IS,Islamabad,
-2a0f:7803:fed8::/48,TR,TR-06,Ankara,
-2a0f:7803:fed9::/48,EG,EG-C,Cairo,
-2a0f:7803:feda::/48,AQ,,Antarctica,
-2a0f:7803:fedb::/48,AU,AU-ACT,Canberra,
-2a0f:7803:fedc::/48,CA,CA-ON,Ottawa,
-2a0f:7803:fedd::/48,FR,FR-IDF,Paris,
-2a0f:7803:fede::/48,AX,,Mariehamn,
-2a0f:7803:fedf::/48,GB,GB-LND,London,
+2a0f:7803:fed5::/48,MY,MY-14,Kuala Lumpur,
+2a0f:7803:fed6::/48,PH,PH-00,Manila,
+2a0f:7803:fed7::/48,ID,ID-JK,Jakarta,
+2a0f:7803:fed8::/48,MN,MN-1,Ulaanbaatar,
+2a0f:7803:fed9::/48,BN,BN-BE,Bandar Seri Begawan,
+2a0f:7803:feda::/48,TL,TL-DI,Dili,
+2a0f:7803:fedb::/48,BH,BH-13,Manama,
+2a0f:7803:fedc::/48,MV,MV-MLE,Malé,
+2a0f:7803:fedd::/48,IO,,Diego Garcia,
+2a0f:7803:fede::/48,CC,,West Island,
+2a0f:7803:fedf::/48,CX,,Flying Fish Cove,
 
 # Ipv6 Unused 
-# 2602:2a3:10::/44 
+# 2a12:bec0:1010::/44 
