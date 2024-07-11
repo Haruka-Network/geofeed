@@ -42,5 +42,6 @@
 2a0f:7803:fede::/48,CC,,West Island,
 2a0f:7803:fedf::/48,CX,,Flying Fish Cove,
 
-# Ipv6 Unused 
-# 2a12:bec0:1010::/44 
+# Client
+146.103.53.0/24,GB,GB-LND,London,
+2a12:bec4:1010::/44,GB,GB-LND,London,
