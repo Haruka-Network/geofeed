@@ -1,12 +1,9 @@
 # prefix,country_code,region_code,city,postal
 
-# IPv4 Main
+# Europe, MENA and Antarctica
+# IPv4
 89.213.166.0/24,GB,GB-LND,London,WC2A 2JR
-109.105.193.0/24,HK,,Hong Kong,
-109.105.193.160/27,TW,TW-TPE,Taipei,
-109.105.193.192/27,SG,SG-01,Singapore,
-
-# IPv6 Europe, MENA and Antarctica
+# IPv6
 2a12:bec0:390::/48,GB,GB-LND,London,WC2A 2JR
 2a12:bec0:391::/48,JE,,Saint Helier,
 2a12:bec0:392::/48,IM,,Douglas,
@@ -19,13 +16,18 @@
 2a12:bec0:399::/48,EG,EG-C,Cairo,
 2a12:bec0:39a::/48,AQ,,Antarctica,
 2a12:bec0:39b::/48,CY,CY-01,Nicosia,
-2a12:bec0:39c::/48,IS,IS-0,Reykjavík,
+2a12:bec0:39c::/48,IS,,Reykjavík,
 2a12:bec0:39d::/48,SM,SM-07,City of San Marino,
 2a12:bec0:39e::/48,AX,,Mariehamn,
 2a12:bec0:39f::/48,GB,GB-LND,London,WC2A 2JR
 
-# IPv6 Asia
-2a0f:7803:fed0::/48,GB,GB-LND,London,
+# Asia and Pacific
+# IPv4
+109.105.193.0/24,HK,,Hong Kong,
+109.105.193.160/27,TW,TW-TPE,Taipei,
+109.105.193.192/27,SG,SG-01,Singapore,
+# IPv6
+2a0f:7803:fed0::/48,HK,,Hong Kong,
 2a0f:7803:fed1::/48,HK,,Hong Kong,
 2a0f:7803:fed2::/48,TW,TW-TPE,Taipei,
 2a0f:7803:fed3::/48,SG,SG-01,Singapore,
@@ -41,7 +43,10 @@
 2a0f:7803:fedd::/48,IO,,Diego Garcia,
 2a0f:7803:fede::/48,CC,,West Island,
 2a0f:7803:fedf::/48,CX,,Flying Fish Cove,
+# IPv6
+2a12:bec4:1010::/48,HK,,Hong Kong,
 
-# Client
+# Customer
+31.57.123.0/24,GB,GB-LND,London,
 146.103.53.0/24,GB,GB-LND,London,
 2a12:bec4:1010::/44,GB,GB-LND,London,
