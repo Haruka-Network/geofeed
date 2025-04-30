@@ -44,7 +44,7 @@
 2a0f:7803:fede::/48,CC,,West Island,
 2a0f:7803:fedf::/48,CX,,Flying Fish Cove,
 # IPv6
-2a12:bec4:1010::/48,HK,,Hong Kong,
+2a12:bec4:2020::/48,HK,,Hong Kong,
 
 # Customer
 31.57.123.0/24,GB,GB-LND,London,
