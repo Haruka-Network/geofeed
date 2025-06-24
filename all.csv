@@ -9,7 +9,7 @@
 2a12:bec0:392::/48,IM,,Douglas,
 2a12:bec0:393::/48,GG,,Saint Peter Port,
 2a12:bec0:394::/48,LI,LI-11,Vaduz,
-2a12:bec0:395::/48,VA,,Vatican City,
+2a12:bec0:395::/48,VA,,,
 2a12:bec0:396::/48,NG,NG-FC,Abuja,
 2a12:bec0:397::/48,PK,PK-IS,Islamabad,
 2a12:bec0:398::/48,TR,TR-06,Ankara,
@@ -47,6 +47,5 @@
 2a12:bec4:2020::/48,HK,,Hong Kong,
 
 # Customer
-31.57.123.0/24,GB,GB-LND,London,
 146.103.53.0/24,GB,GB-LND,London,
 2a12:bec4:1010::/44,GB,GB-LND,London,
