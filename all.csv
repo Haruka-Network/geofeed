@@ -17,6 +17,8 @@
 2a12:bec4:2020::/48,HK,,Hong Kong,
 2a12:bec4:2021::/48,TW,TW-TPE,Taipei,
 2a12:bec4:2022::/48,SG,SG-01,Singapore,
+2a12:bec4:2023::/48,JP,JP-13,Tokyo,
+2a12:bec4:2024::/48,MY,MY-14,Kuala Lumpur,
 
 # North America
 # IPv4
