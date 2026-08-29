@@ -13,6 +13,7 @@
 109.105.193.0/24,HK,,Hong Kong,
 109.105.193.160/27,TW,TW-TPE,Taipei,
 109.105.193.192/27,SG,SG-01,Singapore,
+103.76.86.0/24,JP,JP-13,Tokyo,
 # IPv6
 2a12:bec4:2020::/48,HK,,Hong Kong,
 2a12:bec4:2021::/48,TW,TW-TPE,Taipei,
