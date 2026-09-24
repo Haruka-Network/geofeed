@@ -2,11 +2,11 @@
 
 # Europe, MENA and Antarctica
 # IPv4
-82.38.223.0/24,GB,GB-LND,London,
+82.38.223.0/24,GB,GB-COV,Coventry,
 # IPv6
-2a12:bec0:390::/48,GB,GB-LND,London,
+2a12:bec0:390::/48,GB,GB-COV,Coventry,
 # IPv6
-2a12:bec4:1010::/48,GB,GB-LND,London,
+2a12:bec4:1010::/48,GB,GB-COV,Coventry,
 
 # Asia and Pacific
 # IPv4
